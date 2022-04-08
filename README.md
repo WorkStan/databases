@@ -1,7 +1,4 @@
-
 # PostgresQL multiple database with PgAdmin
-
----
 
 ## How to install
 
